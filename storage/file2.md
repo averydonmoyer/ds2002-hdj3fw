@@ -3,13 +3,11 @@
 A test repo for class. 
 
 ## Here is a seconday healine 
-# Blah blah blah. 
+
+Blah blah blah. 
 I remember using html keys from Chicago this summer. 
 
 - hdj3fw@virginia.edu 
-
-- bananas
-
-- https://www.gmail.com
-
+- list
+- https://www.google.com/
 
